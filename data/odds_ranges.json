@@ -1,0 +1,19 @@
+{
+  "Gen.G": {"min": 2.1, "max": 2.4},
+  "Hanwha Life Esports": {"min": 2.8, "max": 3.25},
+  "Bilibili Gaming": {"min": 4.8, "max": 5.75},
+  "T1": {"min": 5.3, "max": 6.5},
+  "Anyone's Legend": {"min": 8.0, "max": 9.5},
+  "Top Esports": {"min": 6.3, "max": 11.0},
+  "KT Rolster": {"min": 12.0, "max": 21.0},
+  "Invictus Gaming": {"min": 15.0, "max": 23.0},
+  "G2 Esports": {"min": 25.0, "max": 51.0},
+  "FlyQuest": {"min": 35.0, "max": 67.0},
+  "Movistar KOI": {"min": 30.0, "max": 71.0},
+  "CTBC Flying Oyster": {"min": 20.0, "max": 81.0},
+  "PSG Talon": {"min": 45.0, "max": 101.0},
+  "Fnatic": {"min": 50.0, "max": 81.0},
+  "100 Thieves": {"min": 50.0, "max": 151.0},
+  "Team Secret Whales": {"min": 75.0, "max": 151.0},
+  "Vivo Keyd Stars": {"min": 100.0, "max": 251.0}
+}
